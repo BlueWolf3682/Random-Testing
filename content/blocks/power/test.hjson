@@ -1,4 +1,4 @@
-type: BurnerGenerator
+type: SingleTypeGenerator
 name: test
 size: 4
 powerProduction: 1
