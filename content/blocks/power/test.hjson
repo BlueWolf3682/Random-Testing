@@ -1,10 +1,11 @@
-type: ImpactReactor
+type: BurnerGenerator
 name: test
 size: 4
 powerProduction: 1
-plasmas: 1
 consumes: {
-  power: 0.01
+  liquid: {
+   liquid: water
+   amount: 0.1
 }
 requirements: [
   copper/0
