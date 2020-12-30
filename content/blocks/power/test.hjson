@@ -4,8 +4,9 @@ size: 4
 powerProduction: 1
 consumes: {
   liquid: {
-   liquid: water
-   amount: 0.1
+    liquid: water
+    amount: 0.1
+  }
 }
 requirements: [
   copper/0
