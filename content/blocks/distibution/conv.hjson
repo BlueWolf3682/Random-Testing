@@ -1,4 +1,4 @@
-type: Conveyor
+type: StackConveyor
 name: testing
 size: 2
 buildVisibility: shown
