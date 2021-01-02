@@ -1,0 +1,5 @@
+type: Conveyor
+name: testing
+size: 2
+buildVisibility: shown
+speed: 0.08
