@@ -5,3 +5,4 @@ range: 500
 damage: 1
 maxDamagePercent: 1
 maxPaySize: 100
+buildVisibility: shown
