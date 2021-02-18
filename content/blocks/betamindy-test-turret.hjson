@@ -1,0 +1,6 @@
+type: PayloadTurret
+name: dingus
+size: 1
+damage: 1
+maxDamagePercent: 1
+maxPaySize: 100
