@@ -6,3 +6,5 @@ health: 60
 tendrils: 0
 tileDamage: 25
 cooldown: 1
+buildVisibility: sandboxOnly
+category: effect
