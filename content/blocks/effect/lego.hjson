@@ -1,0 +1,8 @@
+type: ShockMine
+localizedName: Legos
+description: Don't step on these.
+variants: 10
+health: 60
+tendrils: 0
+tileDamage: 25
+cooldown: 1
